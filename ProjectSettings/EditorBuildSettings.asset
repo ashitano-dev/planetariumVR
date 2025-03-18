@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Samples/Meta XR Core SDK/74.0.0/Sample Scenes/HandTest_Custom.unity
+    guid: c884d076d6398b54492bcc64bbe30bf5
   - enabled: 1
-    path: Assets/Samples/Meta XR Core SDK/74.0.0/Sample Scenes/ControllerDrivenHandPoses.unity
-    guid: 7ea9f7c90c2fa404d86276a633b59903
+    path: Assets/Scenes/Planet.unity
+    guid: 993617ce085d9e84d95ec8d7cd1f782a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 18d0db5630d59ce46981c1b24e9d22cc, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
